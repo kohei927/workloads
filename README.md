@@ -6,3 +6,8 @@
 - Python 
 - SQL 
 - git
+
+## Python
+
+- 基礎Python
+- Python機械学習
